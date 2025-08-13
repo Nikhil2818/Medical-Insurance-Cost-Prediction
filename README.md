@@ -13,7 +13,7 @@ The dataset includes information about individuals, such as:
 - Region
 - Medical charges
 
-Download Dataset: [Download](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+Download Dataset: [Download](https://www.kaggle.com/datasets/harishkumardatalab/medical-insurance-price-prediction)
 ## Insights:
 
 
