@@ -49,5 +49,6 @@ Download Dataset: [Download](https://www.kaggle.com/datasets/harishkumardatalab/
 
 From the above table we can observe that XGBoost Regressor is the best model with cv score 0.993.
 
+Medical Insurance Price Predictor: [Click here](https://medical-insurance-cost-prediction-2.onrender.com)
 
 <img width="1000" height="800"  src="https://github.com/Nikhil2818/Medical-Insurance-Cost-Prediction/blob/main/Screenshot%20(172).png" />
