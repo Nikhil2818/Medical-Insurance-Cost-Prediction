@@ -1,6 +1,9 @@
-# Medical Insurance Cost Prediction
+# Medical Insurance Price Prediction
 
 The increasing costs and complexities in the healthcare sector underscore the necessity for efficient predictive models to anticipate medical insurance prices. This project explores the application of machine learning techniques for forecasting medical insurance premiums, aiming to provide stakeholders with invaluable insights for pricing strategies and risk management.
+
+
+<img width="1000" height="800"  src="https://github.com/Nikhil2818/Medical-Insurance-Cost-Prediction/blob/main/Screenshot%20(174).png" />
 
 
 ## About Dataset:
