@@ -33,6 +33,8 @@ Download Dataset: [Download](https://www.kaggle.com/datasets/harishkumardatalab/
 - Feature Importance
 - Preparing model for deployment
 - Deployed model using Flask
+
+  <img width="1000" height="800"  src="https://github.com/Nikhil2818/Medical-Insurance-Cost-Prediction/blob/main/Screenshot%20(175).png" />
 ## Results:
 
 ### Comparing Models
