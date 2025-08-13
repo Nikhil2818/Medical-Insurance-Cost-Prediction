@@ -1,4 +1,4 @@
-# Medical Insurance Price Prediction
+# Medical Insurance Cost Prediction
 
 The increasing costs and complexities in the healthcare sector underscore the necessity for efficient predictive models to anticipate medical insurance prices. This project explores the application of machine learning techniques for forecasting medical insurance premiums, aiming to provide stakeholders with invaluable insights for pricing strategies and risk management.
 
@@ -36,10 +36,12 @@ Download Dataset: [Download](https://www.kaggle.com/datasets/mirichoi0218/insura
 
 |Model |  Train_Accuracy  | Test_Accuracy|CV Score|
 |:-----|:--------:|------:|-------:|
-| Linear Regression | 0.73 | 0.79 | 0.74|
-| SVR  |-0.090   | -0.084   |-0.098
-| Random Forest Regressor |0.92  |0.88    |0.84
-| Gradient Boosting Regressor | 0.871| 0.891  |0.860
-| XGB Regressor | 0.867 | 0.895  |0.862
+| Linear Regression | 0.74 | 0.77 | 0.74|
+| SVR  |-0.090   | -0.05   |-0.09
+| Random Forest Regressor |0.99  |0.95    |0.97
+| Gradient Boosting Regressor | 0.996| 0.956  |0.992
+| XGB Regressor | 0.996 | 0.961  |0.993
 
-From the above table we can observe that XGBoost Regressor is the best model with cv score 0.862.
+From the above table we can observe that XGBoost Regressor is the best model with cv score 0.993.
+
+
